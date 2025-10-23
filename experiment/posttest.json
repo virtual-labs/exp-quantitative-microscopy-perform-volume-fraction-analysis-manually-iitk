@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "The estimation of the volume fraction of the second phase (V<sub>i</sub>) by equating it to 𝐴<sub>𝑖</sub>/𝐴<sub>t</sub> real analysis where A<sub>i</sub> is the area of the second phase, and A<sub>t</sub> is the total area is called: ",
+      "question": "The estimation of the volume fraction of the second phase (V<sub>i</sub>) by equating it to A<sub>i</sub>/A<sub>t</sub> real analysis where A<sub>i</sub> is the area of the second phase, and A<sub>t</sub> is the total area is called : ",
       "answers": {
         "a": "Areal analysis",
         "b": "Lineal analysis",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "The estimation of the volume fraction of the second phase (V<sub>i</sub>) by equating it to L<sub>𝑖</sub>/L<sub>t</sub> where L<sub>i</sub> is the line-intercept length of the second phase, and L<sub>t</sub> is the total length of  measurement is called: ",
+      "question": "The estimation of the volume fraction of the second phase (V<sub>i</sub>) by equating it to L<sub>i</sub>/L<sub>t</sub> where L<sub>i</sub> is the line-intercept length of the second phase, and L<sub>t</sub> is the total length of  measurement is called : ",
       "answers": {
         "a": "Areal analysis",
         "b": "Lineal analysis",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "The estimation of the volume fraction of the second phase (V<sub>i</sub>) by equating it to P<sub>𝑖</sub>/P<sub>t</sub>where P<sub>i</sub> is the number of points falling on second phase, and P<sub>t</sub> is the total number of points is called: ",
+      "question": "The estimation of the volume fraction of the second phase (V<sub>i</sub>) by equating it to P<sub>i</sub>/P<sub>t</sub>where P<sub>i</sub> is the number of points falling on second phase, and P<sub>t</sub> is the total number of points is called : ",
       "answers": {
         "a": "Areal analysis",
         "b": "Lineal analysis",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Using lineal analysis, the drawn lines: ",
+      "question": "Using lineal analysis, the drawn lines : ",
       "answers": {
         "a": "must be parallel to horizontal direction ",
         "b": "must be perpendicular to vertical direction",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Find the FALSE statement: Quantitative metallography of reporting volume fraction of second phase:",
+      "question": "Find the FALSE statement, Quantitative metallography of reporting volume fraction of second phase :",
       "answers": {
         "a": "is an actual value of the assessed material",
         "b": "may be different when reporting areal, lineal and point analysis",
