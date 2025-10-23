@@ -2,35 +2,86 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Quantitative microscopy CANNOT quantify the following: ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Voids",
+        "b": "Matrix",
+        "c": "Reinforcement",
+        "d": "Compositional difference"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation ",
+        "b": " Explanation ",
+        "c": " Explanation ",
+        "d": " Explanation "
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Interpretation of 3-D quantitative information from a 2-D structure or length or point analysis is called: ",
+      "answers": {
+        "a": "Stereology",
+        "b": "Tessellation",
+        "c": "Biology",
+        "d": "Telegraphy"
+      },
+      "explanations": {
+        "a": "Explanation ",
+        "b": " Explanation ",
+        "c": " Explanation ",
+        "d": " Explanation "
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The difference between the light intensity of the specimen and its background is called: ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Brightness",
+        "b": "Contrast",
+        "c": "Saturation",
+        "d": "Diffraction"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation ",
+        "b": " Explanation ",
+        "c": " Explanation ",
+        "d": " Explanation "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Using a 40 × objective, 20 divisions on the eyepiece graticule correspond to 10 divisions on the stage micrometer. If one division of stage micrometer is 100 µm, what is the length of a single eyepiece graticule division at this magnification? ",
+      "answers": {
+        "a": "10 µm",
+        "b": "20 µm",
+        "c": "50 µm",
+        "d": "200 µm"
+      },
+      "explanations": {
+        "a": "Explanation ",
+        "b": " Explanation ",
+        "c": " Explanation ",
+        "d": " Explanation "
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the significance of using scale bar on a micrograph (in quantitative optical microscopy)?",
+      "answers": {
+        "a": "It provides the total magnification used to capture the micrograph",
+        "b": "It is only required for electron microscopy images ",
+        "c": "It shows the actual size of the objects and remains accurate even if the image is resized ",
+        "d": "It indicates the refractive index of the medium surrounding the specimen "
+      },
+      "explanations": {
+        "a": "Explanation ",
+        "b": " Explanation ",
+        "c": " Explanation ",
+        "d": " Explanation "
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
