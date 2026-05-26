@@ -4,7 +4,7 @@
 <b>Discipline | <b>Physical Science 
 :--|:--|
 <b> Lab | <b> Virtual Reality
-<b> Experiment|     <b> 
+<b> Experiment|     <b> Quantitative Microscopy: (i) perform volume fraction analysis manually on a multi-phase sample
 ### About the Experiment 
 
 
