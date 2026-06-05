@@ -10,11 +10,11 @@
         "d": "Asymmetric analysis"
       },
       "explanations": {
-        "a": "Explanation ",
-        "b": " Explanation ",
-        "c": " Explanation ",
-        "d": " Explanation "
-      },
+        "a": "Correct — Areal analysis estimates volume fraction by measuring the area fraction (Ai/At) of a phase in a 2D micrograph, assuming it represents the 3D volume fraction.",
+  "b": "Incorrect — Lineal analysis is based on line intercept methods, not direct area measurement.",
+  "c": "Incorrect — Point counting estimates volume fraction by counting the number of points falling on a phase, not by measuring area directly.",
+  "d": "Incorrect — Asymmetric analysis is not a standard method in quantitative metallography."
+},
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -27,11 +27,11 @@
         "d": "Asymmetric analysis"
       },
       "explanations": {
-        "a": "Explanation ",
-        "b": " Explanation ",
-        "c": " Explanation ",
-        "d": " Explanation "
-      },
+        "a": "Incorrect — areal analysis is based on area fraction (Ai/At), not line intercept measurements.",
+  "b": "Correct — lineal analysis uses the ratio Li/Lt based on line-intercept lengths to estimate volume fraction of phases in stereology.",
+  "c": "Incorrect — point counting uses number of points falling on a phase, not line intercept lengths.",
+  "d": "Incorrect — asymmetric analysis is not a standard method in quantitative metallography."
+},
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -44,11 +44,11 @@
         "d": "Asymmetric analysis"
       },
       "explanations": {
-        "a": "Explanation ",
-        "b": " Explanation ",
-        "c": " Explanation ",
-        "d": " Explanation "
-      },
+        "a": "Incorrect — areal analysis is based on area fraction (Ai/At), not point ratios.",
+  "b": "Incorrect — lineal analysis is based on line intercept lengths (Li/Lt), not point counting.",
+  "c": "Correct — point counting method estimates volume fraction using the ratio Pi/Pt, where Pi is points on the phase and Pt is total points.",
+  "d": "Incorrect — asymmetric analysis is not a standard method in quantitative metallography."
+},
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -61,22 +61,22 @@
         "d": "must not be in any order"
       },
       "explanations": {
-        "a": "Explanation ",
-        "b": " Explanation ",
-        "c": " Explanation ",
-        "d": " Explanation "
-      },
-      "correctAnswer": "d",
+         "a": "Incorrect — lines in lineal analysis are not restricted to only horizontal direction; such restriction would introduce bias.",
+  "b": "Incorrect — there is no requirement that lines must be perpendicular to vertical direction specifically; orientation should not be fixed.",
+  "c": "Correct — in lineal analysis, lines are typically drawn in multiple orientations (both horizontal and vertical, often random or equally distributed) to avoid directional bias.",
+  "d": "Incorrect — lines should not be completely random without control; a systematic or isotropic sampling approach is required for reliable results."
+},
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
       "question": "Find the FALSE statement, Quantitative metallography of reporting volume fraction of second phase :",
       "answers": {
-        "a": "is an actual value of the assessed material",
-        "b": "may be different when reporting areal, lineal and point analysis",
-        "c": "is statistical in nature and dependent on the number of data points",
-        "d": "can be deduced from stereological principles"
-      },
+         "a": "False — volume fraction obtained from quantitative metallography is an estimate, not an exact “actual” value of the material due to sampling and statistical limitations.",
+  "b": "True — values may slightly differ depending on areal, lineal, or point analysis because each method has statistical variability.",
+  "c": "True — results are statistical in nature and accuracy improves with more measurements or data points.",
+  "d": "True — volume fraction can be deduced from stereological principles relating 2D measurements to 3D structures."
+},
       "explanations": {
         "a": "Explanation ",
         "b": " Explanation ",
