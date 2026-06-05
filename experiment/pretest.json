@@ -2,36 +2,87 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Quantitative microscopy CANNOT quantify the following : ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Voids",
+        "b": "Matrix",
+        "c": "Reinforcement",
+        "d": "Compositional difference"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect — voids can be quantified using area fraction, size distribution, and porosity measurements in quantitative microscopy.",
+  "b": "Correct — matrix is the continuous background phase; quantitative microscopy focuses on discrete features (like pores, particles, phases), so the matrix itself is not directly quantified as a feature.",
+  "c": "Incorrect — reinforcement phases can be quantified in composites (volume fraction, size, distribution).",
+  "d": "Incorrect — compositional differences can be analyzed using image analysis and linked techniques, so they are not excluded from quantitative evaluation."
+},
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Interpretation of 3-D quantitative information from a 2-D structure or length or point analysis is called : ",
+      "answers": {
+        "a": "Stereology",
+        "b": "Tessellation",
+        "c": "Biology",
+        "d": "Telegraphy"
       },
+      "explanations": {
+        "a": "Correct — Stereology is the method used to interpret 3D quantitative microstructural information from 2D sections using statistical and geometrical analysis.",
+  "b": "Incorrect — Tessellation refers to tiling patterns in geometry, not microstructural analysis.",
+  "c": "Incorrect — Biology is a broad scientific field and not a specific method for 3D interpretation from 2D data.",
+  "d": "Incorrect — Telegraphy is a communication method and has no relation to materials characterization."
+},
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The difference between the light intensity of the specimen and its background is called : ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Brightness",
+        "b": "Contrast",
+        "c": "Saturation",
+        "d": "Diffraction"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect — brightness refers to the overall light intensity of an image, not the difference between regions.",
+  "b": "Correct — contrast is the difference in light intensity between the specimen and its background, which helps in distinguishing microstructural features.",
+  "c": "Incorrect — saturation refers to color intensity in colored images, not intensity difference in grayscale optical microscopy.",
+  "d": "Incorrect — diffraction is a wave phenomenon related to light interaction with structures, not image intensity difference."
+},
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Using a 40 × objective, 20 divisions on the eyepiece graticule correspond to 10 divisions on the stage micrometer. If one division of stage micrometer is 100 µm, what is the length of a single eyepiece graticule division at this magnification ? ",
+      "answers": {
+        "a": "10 µm",
+        "b": "20 µm",
+        "c": "50 µm",
+        "d": "200 µm"
       },
+      "explanations": {
+        "a": "Incorrect — this value is too small; calibration shows each eyepiece division is larger than 10 µm.",
+  "b": "Incorrect — 20 µm does not match the given stage micrometer calibration relationship.",
+  "c": "Correct — 10 stage divisions = 1000 µm, which corresponds to 20 eyepiece divisions, so 1 eyepiece division = 50 µm.",
+  "d": "Incorrect — 200 µm is too large and inconsistent with the calibration ratio provided."
+},
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the significance of using scale bar on a micrograph (in quantitative optical microscopy) ?",
+      "answers": {
+        "a": "It provides the total magnification used to capture the micrograph",
+        "b": "It is only required for electron microscopy images ",
+        "c": "It shows the actual size of the objects and remains accurate even if the image is resized ",
+        "d": "It indicates the refractive index of the medium surrounding the specimen "
+      },
+      "explanations": {
+       "a": "Incorrect — magnification can change if the image is resized, while the scale bar represents actual length, not magnification.",
+  "b": "Incorrect — scale bars are required in both optical and electron microscopy, not only electron microscopy.",
+  "c": "Correct — a scale bar represents the real physical size of features in the image and remains valid even if the image is resized proportionally.",
+  "d": "Incorrect — refractive index is unrelated to scale bars and is not indicated in micrographs this way."
+},
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
