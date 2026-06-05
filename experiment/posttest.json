@@ -78,11 +78,11 @@
   "d": "True — volume fraction can be deduced from stereological principles relating 2D measurements to 3D structures."
 },
       "explanations": {
-        "a": "Explanation ",
-        "b": " Explanation ",
-        "c": " Explanation ",
-        "d": " Explanation "
-      },
+       "a": "Correct pick (FALSE statement). Quantitative metallography does NOT give the exact 'actual' volume fraction of the bulk material. It gives only an ESTIMATE based on a 2D cross-section of the sample. Due to sampling limitations, sectioning plane orientation, and statistical variability, the result is always an approximation — never the absolute true value.",
+  "b": "This statement is TRUE, so it is NOT the answer. Areal analysis (Ai/At), lineal analysis (Li/Lt), and point counting (Pi/Pt) are three different methods. Each has its own measurement procedure and statistical scatter, so slight differences in results between methods are expected and well-documented.",
+  "c": "This statement is TRUE, so it is NOT the answer. Since quantitative metallography is based on sampling of microstructural fields, its results follow statistical principles. Taking more fields of view or more measurements reduces error and improves confidence in the estimated volume fraction.",
+  "d": "This statement is TRUE, so it is NOT the answer. Stereology provides the theoretical foundation that links 2D microstructural measurements (area fraction, line fraction, point fraction) to the true 3D volume fraction. By Delesse's principle and its derivatives, Vv = Aa = Ll = Pp, meaning all three 2D methods are valid estimators of the 3D volume fraction."
+},
       "correctAnswer": "a",
       "difficulty": "beginner"
     }
