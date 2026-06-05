@@ -10,12 +10,12 @@
         "d": "Compositional difference"
       },
       "explanations": {
-        "a": "Explanation ",
-        "b": " Explanation ",
-        "c": " Explanation ",
-        "d": " Explanation "
-      },
-      "correctAnswer": "d",
+        "a": "Incorrect — voids can be quantified using area fraction, size distribution, and porosity measurements in quantitative microscopy.",
+  "b": "Correct — matrix is the continuous background phase; quantitative microscopy focuses on discrete features (like pores, particles, phases), so the matrix itself is not directly quantified as a feature.",
+  "c": "Incorrect — reinforcement phases can be quantified in composites (volume fraction, size, distribution).",
+  "d": "Incorrect — compositional differences can be analyzed using image analysis and linked techniques, so they are not excluded from quantitative evaluation."
+},
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
@@ -27,11 +27,11 @@
         "d": "Telegraphy"
       },
       "explanations": {
-        "a": "Explanation ",
-        "b": " Explanation ",
-        "c": " Explanation ",
-        "d": " Explanation "
-      },
+        "a": "Correct — Stereology is the method used to interpret 3D quantitative microstructural information from 2D sections using statistical and geometrical analysis.",
+  "b": "Incorrect — Tessellation refers to tiling patterns in geometry, not microstructural analysis.",
+  "c": "Incorrect — Biology is a broad scientific field and not a specific method for 3D interpretation from 2D data.",
+  "d": "Incorrect — Telegraphy is a communication method and has no relation to materials characterization."
+},
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -44,11 +44,11 @@
         "d": "Diffraction"
       },
       "explanations": {
-        "a": "Explanation ",
-        "b": " Explanation ",
-        "c": " Explanation ",
-        "d": " Explanation "
-      },
+        "a": "Incorrect — brightness refers to the overall light intensity of an image, not the difference between regions.",
+  "b": "Correct — contrast is the difference in light intensity between the specimen and its background, which helps in distinguishing microstructural features.",
+  "c": "Incorrect — saturation refers to color intensity in colored images, not intensity difference in grayscale optical microscopy.",
+  "d": "Incorrect — diffraction is a wave phenomenon related to light interaction with structures, not image intensity difference."
+},
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -61,11 +61,11 @@
         "d": "200 µm"
       },
       "explanations": {
-        "a": "Explanation ",
-        "b": " Explanation ",
-        "c": " Explanation ",
-        "d": " Explanation "
-      },
+        "a": "Incorrect — this value is too small; calibration shows each eyepiece division is larger than 10 µm.",
+  "b": "Incorrect — 20 µm does not match the given stage micrometer calibration relationship.",
+  "c": "Correct — 10 stage divisions = 1000 µm, which corresponds to 20 eyepiece divisions, so 1 eyepiece division = 50 µm.",
+  "d": "Incorrect — 200 µm is too large and inconsistent with the calibration ratio provided."
+},
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -78,11 +78,11 @@
         "d": "It indicates the refractive index of the medium surrounding the specimen "
       },
       "explanations": {
-        "a": "Explanation ",
-        "b": " Explanation ",
-        "c": " Explanation ",
-        "d": " Explanation "
-      },
+       "a": "Incorrect — magnification can change if the image is resized, while the scale bar represents actual length, not magnification.",
+  "b": "Incorrect — scale bars are required in both optical and electron microscopy, not only electron microscopy.",
+  "c": "Correct — a scale bar represents the real physical size of features in the image and remains valid even if the image is resized proportionally.",
+  "d": "Incorrect — refractive index is unrelated to scale bars and is not indicated in micrographs this way."
+},
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
